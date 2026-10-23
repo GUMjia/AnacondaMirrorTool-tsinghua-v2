@@ -1,0 +1,2 @@
+# AnacondaMirrorTool-tsinghua-v2
+将anaconda创建环境时的下载源更改为国内清华镜像源，可以提高创建速度
